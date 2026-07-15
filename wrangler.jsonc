@@ -13,7 +13,7 @@
     "observability": {
         "enabled": true
     },
-    // D1数据库绑定
+    //  D1数据库绑定
     "d1_databases": [
         {
             "binding": "DB",
