@@ -22,7 +22,7 @@
         }
     ],
     "vars": {
-        "AUTH_ENABLED": "true",
+        "AUTH_ENABLED": "false",
         "AUTH_USERNAME": "navi_admin",
         "AUTH_PASSWORD": "h$^Q$WJ^75SMjV",
         "AUTH_SECRET": "h$^Q$WJ^75SMjV"
